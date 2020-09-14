@@ -6,5 +6,5 @@ member:
   discount: 3
 vehicle:
  default:
-  model: hatch back
+  model: hatchback
 duration: all
